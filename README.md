@@ -15,6 +15,6 @@ final _formKey = GlobalKey<FormState>(); untuk validasi
 
 ## Tampilan
 Form Data  
-![form data](form_data.png)
+![form data](form_data.png)  
 Tampil Data  
 ![tampil data](tampil_data.png)
