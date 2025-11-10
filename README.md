@@ -14,7 +14,7 @@ final _formKey = GlobalKey<FormState>(); untuk validasi
 `tampil_data` menampilkan dari property class nya sendiri yang sudah diisi lewat routing
 
 ## Tampilan
-Form Data 
+Form Data  
 ![form data](form_data.png)
 Tampil Data  
 ![tampil data](tampil_data.png)
