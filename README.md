@@ -1,8 +1,8 @@
 # H1D023048 Tugas 6
 ## Identitas
-Nama : Putranto Surya Wijanarko
-NIM : H1D023048
-Shift Awal & Baru : F
+Nama : Putranto Surya Wijanarko  
+NIM : H1D023048  
+Shift Awal & Baru : F  
 
 ## Penjelasan
 Passing data dari form `form_data` ke `tampil_data` melalui text form dan dikendalikan oleh `TextEditingController`
@@ -14,7 +14,7 @@ final _formKey = GlobalKey<FormState>(); untuk validasi
 `tampil_data` menampilkan dari property class nya sendiri yang sudah diisi lewat routing
 
 ## Tampilan
-Form Data
+Form Data 
 ![form data](form_data.png)
-Tampil Data
+Tampil Data  
 ![tampil data](tampil_data.png)
